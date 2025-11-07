@@ -62,4 +62,4 @@ for pos in coffees_pos:
     i+=1
 
 
-m.save("docs/coffee-interactive-map.html")
+m.save("docs/index.html")
